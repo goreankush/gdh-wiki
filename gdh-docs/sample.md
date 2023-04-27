@@ -1,3 +1,13 @@
+---
+title: sample
+description: 
+published: true
+date: 2023-04-27T17:30:32.389Z
+tags: 
+editor: markdown
+dateCreated: 2023-04-27T17:30:31.234Z
+---
+
 # Sample page
 A tool is an object that can extend an individual's ability to modify features of the surrounding environment or help them accomplish a particular task. Although many animals use simple tools, only human beings, whose use of stone tools dates back hundreds of millennia, have been observed using tools to make other tools.
 

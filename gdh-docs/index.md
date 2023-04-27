@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2023-04-27T17:30:27.779Z
+tags: 
+editor: markdown
+dateCreated: 2023-04-27T17:30:26.238Z
+---
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).

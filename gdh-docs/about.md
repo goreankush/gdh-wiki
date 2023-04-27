@@ -1,3 +1,13 @@
+---
+title: about
+description: 
+published: true
+date: 2023-04-27T17:30:25.652Z
+tags: 
+editor: markdown
+dateCreated: 2023-04-27T17:30:24.001Z
+---
+
 # About.md
 
 ## Vitreis vires
